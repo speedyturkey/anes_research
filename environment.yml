@@ -1,0 +1,7 @@
+name: anes
+dependencies:
+  - python=3.6
+  - pandas
+  - sqlalchemy
+  - psycopg2
+  - boto3
